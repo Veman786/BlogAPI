@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API",
+    "\\API\\CodePulse.API",
+    "\\API\\CodePulse.API\\Models",
+    "\\API\\CodePulse.API\\Models\\Domain"
   ],
-  "SelectedNode": "\\E:\\AnglarPractice\\GithubAPI",
   "PreviewInSolutionExplorer": false
 }
